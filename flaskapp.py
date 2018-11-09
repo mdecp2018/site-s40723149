@@ -2062,7 +2062,7 @@ def syntaxhighlight():
 -->
 <style>
 img {
-    border:4px solid blue;
+    border:3px solid red;
 }
 </style>
 '''
@@ -2119,7 +2119,7 @@ init_mathjax();
 -->
 <style>
 img {
-    border:4px solid blue;
+    border:3px solid red;
 }
 </style>
 '''
