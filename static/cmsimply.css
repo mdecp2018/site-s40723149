@@ -1,8 +1,8 @@
 .container {
   position: relative;
+  color: white ;
 }
 header{
-  background: #ccc;
   padding: 20px;
 }
 confmenu
@@ -202,5 +202,7 @@ width: 195px;
 }
 body {
   margin-bottom: 120px;
+  background-image:url(http://image.pttnews.cc/2018/05/22/f0725e6e62/dd62a9194f1ea0ea43b150fd34e7f2ea.jpg);
+  background-size:100%
 }
 
